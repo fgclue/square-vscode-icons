@@ -1,0 +1,1 @@
+<a href="fgclue.github.io/fgs-vscode-icons/">Home</a> <a href="fgclue.github.io/fgs-vscode-icons/whereget">Where can I get it?</a> <a href="fgclue.github.io/fgs-vscode-icons/ReadMe">ReadMe</a> <a href="fgclue.github.io/fgs-vscode-icons/about">About</a> <a href="fgclue.github.io/fgs-vscode-icons/license">License</a>
