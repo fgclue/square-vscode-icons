@@ -2,7 +2,7 @@
 <img src=https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg height=auto width=200>
 </p>
 <p align=center>
-fg's vscode icons
+square vscode icons
 </p>
 <p align=center>
 i use vscode-icons as my icon pack
